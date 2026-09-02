@@ -1,20 +1,20 @@
 {
   "symbol": "VTBR@MISX",
-  "timestamp": "2026-09-02T14:45:21.869410Z",
+  "timestamp": "2026-09-02T14:46:24.900377Z",
   "last": {
     "value": "51.685"
   },
   "bid": {
-    "value": "51.675"
+    "value": "51.68"
   },
   "ask": {
     "value": "51.685"
   },
   "volume": {
-    "value": "2.0796007E7"
+    "value": "2.0836728E7"
   },
   "turnover": {
-    "value": "1.073684258E9"
+    "value": "1.075788379E9"
   },
   "open": {
     "value": "51.145"
